@@ -1,7 +1,9 @@
 import React from 'react';
-import photo from 'c:/Users/vkraj/OneDrive/Desktop/my_portfolio/vineet-portfolio-website/src/nyBestPicture-removebg-preview.png';
-import logo from "c:/Users/vkraj/OneDrive/Desktop/my_portfolio/vineet-portfolio-website/src/logo-2.png";
+// import photo from 'c:/Users/vkraj/OneDrive/Desktop/my_portfolio/vineet-portfolio-website/src/nyBestPicture-removebg-preview.png';
+// import logo from "c:/Users/vkraj/OneDrive/Desktop/my_portfolio/vineet-portfolio-website/src/logo-2.png";
 
+import logo from "../logo2.png";
+import photo from "../myBestPicture.png";
 
 const Navbar = () => {
     return (
