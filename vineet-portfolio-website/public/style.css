@@ -1,24 +1,104 @@
-.container-fluid{
-    padding-left: 0; 
-}
-.cf-custom{
-    padding: 3% 100px 7%;
-}
-
-.round-absolute{
-    border-radius: 100%;
-    height: 8rem;
-    width: 8rem;
-    background-color: red;
-    text-align: center;
-    padding: 3.5rem 0;
+body{
+    /* background-color:black ; */
     color: #fff;
-    font-family: 'Golos Text';
-    /* position: absolute; */
-
-
+    text-align: center;
 }
+
+
+/****************** class ***************/
+/* overall conatiner navebar + landing page */
+.cf-custom{
+    padding: 3%  15%;
+    background-color: #222A36;
+}
+
+
+/* navbar */
+
+.navbar-custom{
+color: #fff;
+}
+
+.navbar-ul-custom{
+    margin-left: auto;
+    margin-right: 0;
+}
+
+
+
 .test{
     height: 2000px;
     background-color: aqua;
 }
+
+.nav-logo{
+    height: 3rem;
+    width: 3rem;
+}
+
+/* landing page  */
+.round-absolute{
+    border-radius: 100%;
+    
+    text-align: center;
+    /* padding: 3.5rem 0; */
+    color: #fff;
+    font-family: 'Golos Text';
+    position: absolute;
+    font-size: 1.5rem;
+    font-weight: bolder;
+
+
+}
+
+
+.landing-page-pic{
+    position: relative;
+    width: 80%;
+    bottom: 18%;
+}
+
+.landing-page-intro{
+    font-size: medium;
+    line-height: 1.2;
+    margin-top: 10%;
+}
+
+
+.developer-div{
+height: 12rem;
+width: 12rem;
+padding: 4.6rem 0;
+font-size: 1.8rem;
+top: 63%;
+right: 30%;
+z-index: 1;
+background-color:#676CDB;
+}
+.problem-div{
+    left:25%;
+    top: 20%;
+    height: 8rem;
+    width: 8rem;
+    padding: 2rem 0;
+    background-color: #3AAFC9;
+
+}
+
+/* intorduction  */
+
+.introducion{
+    /* background-color: aquamarine; */
+    position: absolute;
+    font-size: 300%;
+    top:65%;
+    left: 5%;
+}
+
+
+/************ ID  *************************/
+
+/* #navbar{
+    background-color:#222A36;
+} */
+
