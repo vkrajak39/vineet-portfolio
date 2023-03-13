@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/vineet-portfolio/static/css/main.31d6cfe0.css",
+    "main.js": "/vineet-portfolio/static/js/main.d9fd0177.js",
+    "static/media/landingPagePic.png": "/vineet-portfolio/static/media/landingPagePic.d3443045fbe102ed5e46.png",
+    "static/media/logo3.png": "/vineet-portfolio/static/media/logo3.877bd54908ecfcb41eac.png",
+    "index.html": "/vineet-portfolio/index.html",
+    "main.d9fd0177.js.map": "/vineet-portfolio/static/js/main.d9fd0177.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.31d6cfe0.css",
+    "static/js/main.d9fd0177.js"
+  ]
+}
